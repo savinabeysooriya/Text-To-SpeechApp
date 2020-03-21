@@ -12,7 +12,7 @@ import android.widget.SeekBar;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    //this is a testing
+    //remove comments
     private TextToSpeech mTTs;
     private EditText mEditText;     //text input
     private SeekBar mSeekBarPitch;
