@@ -11,7 +11,7 @@ import android.widget.SeekBar;
 
 import java.util.Locale;
 
-//test1
+
 
 public class MainActivity extends AppCompatActivity {
 
